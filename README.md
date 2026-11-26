@@ -104,14 +104,11 @@ Screenshots are stored in [`docs/images/`](docs/images/). See [docs/images/READM
 
 | Step | Screenshot |
 |---|---|
-| Azure budget alert ($5) | ![Budget](docs/images/01-budget-alert.png) |
-| Agent instructions + File search with 2 documents | ![Agent setup](docs/images/03-agent-setup.png) |
 | Playground: password question with citation | ![Playground password](docs/images/04-playground-password.png) |
 | Playground: parental leave (says it doesn't know) | ![Hallucination test](docs/images/04-playground-parental-leave.png) |
 | Playground: coffee shop public Wi-Fi → VPN | ![Coffee shop test](docs/images/04-playground-coffee-shop.png) |
-| Publish details form | ![Publish form](docs/images/05-publish-form.png) |
-| Teams: core hours answer with citation | ![Teams answer](docs/images/06-teams-core-hours.png) |
-| Resource group deleted | ![Cleanup](docs/images/08-cleanup-done.png) |
+| Playground: core hours and encryption | ![Core hours](docs/images/04-playground-core-hours-encryption.png) |
+| Teams: 3 questions answered with citations | ![Teams answer](docs/images/06-teams-chat.png) |
 
 ---
 

@@ -1,0 +1,4 @@
+# Keep the policy documents byte-for-byte as uploaded to the agent
+data/** -text
+*.png binary
+*.gif binary
